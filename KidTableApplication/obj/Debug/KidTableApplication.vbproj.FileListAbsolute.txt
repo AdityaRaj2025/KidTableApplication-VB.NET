@@ -1,0 +1,10 @@
+E:\VBNET\KidTableApplication\KidTableApplication\bin\Debug\KidTableApplication.exe.config
+E:\VBNET\KidTableApplication\KidTableApplication\bin\Debug\KidTableApplication.exe
+E:\VBNET\KidTableApplication\KidTableApplication\bin\Debug\KidTableApplication.pdb
+E:\VBNET\KidTableApplication\KidTableApplication\bin\Debug\KidTableApplication.xml
+E:\VBNET\KidTableApplication\KidTableApplication\obj\Debug\KidTableApplication.KidTableApplication.resources
+E:\VBNET\KidTableApplication\KidTableApplication\obj\Debug\KidTableApplication.Resources.resources
+E:\VBNET\KidTableApplication\KidTableApplication\obj\Debug\KidTableApplication.vbproj.GenerateResource.Cache
+E:\VBNET\KidTableApplication\KidTableApplication\obj\Debug\KidTableApplication.exe
+E:\VBNET\KidTableApplication\KidTableApplication\obj\Debug\KidTableApplication.xml
+E:\VBNET\KidTableApplication\KidTableApplication\obj\Debug\KidTableApplication.pdb
